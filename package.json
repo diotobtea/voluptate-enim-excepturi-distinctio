@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@diotobtea/voluptate-enim-excepturi-distinctio",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/diotobtea/voluptate-enim-excepturi-distinctio.git"
   },
   "dependencies": {
+    "@diotobtea/reprehenderit-alias-cum-consectetur": "^1.0.0",
+    "@swenkertrea/id-earum-blanditiis-ullam": "^1.0.0",
+    "@swenkertrea/magni-distinctio-qui-explicabo": "file:swenkertrea/corporis-consequuntur-qui-esse@swenkertrea/tempore-placeat-quis-iusto@swenkertrea/nesciunt-modi-nobis-veniam@swenkertrea/ut-illo-aliquid-illum@swenkertrea/sed-ducimus-consectetur-maxime@swenkertrea/inventore-natus-tempora-dicta@swenkertrea/aliquam-rerum-nihil-suscipit@swenkertrea/esse-provident-minus-nobis@swenkertrea/fugiat-consequatur-et-occaecati@swenkertrea/sint-ipsa-delectus-rem@swenkertrea/iusto-dicta-voluptate-voluptatum@swenkertrea/asperiores-suscipit-saepe-hic@swenkertrea/totam-occaecati-quam-architecto@swenkertrea/quos-perspiciatis-nobis-quas@swenkertrea/voluptatem-magni-repellat-velit@swenkertrea/voluptas-quidem-voluptatibus-doloremque@juiggitea/ut-nostrum-temporibus-autem@juiggitea/ratione-reiciendis-mollitia-blanditiis@juiggitea/distinctio-tempora-quos-quis@juiggitea/corporis-doloribus-alias-voluptas@juiggitea/vel-et-repudiandae-sit@juiggitea/a-laboriosam-omnis-praesentium@juiggitea/sapiente-soluta-minima-fuga@juiggitea/alias-excepturi-quod-aut@juiggitea/praesentium-porro-voluptates-officiis"
   }
 }
